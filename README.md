@@ -2,7 +2,7 @@
 Full Stack App using React, AI ML, JDBC
 A responsive website to perform operations on the table in the database using ReactJS, JDBC and do prediction using Machine Learning Regression.
 ~Internship Project
-
+Code cannt be shared as it was asked not to.
 
 
 
